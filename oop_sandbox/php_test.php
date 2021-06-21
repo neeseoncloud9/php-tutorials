@@ -7,7 +7,7 @@
   </head>
   <body>
 
-    <?php echo 'php is the best!'; ?>
+    <?php echo 'php is the worst!'; ?> 
 
   </body>
 </html>
